@@ -1,1 +1,22 @@
-{}
+{
+  "tickets": [
+    {
+      "id": "977fb6af-25a3-4732-9ef9-6cde0c4798d2",
+      "equipment": "Computador",
+      "description": "Computador não liga.",
+      "user_name": "Lorenzo Jorge",
+      "status": "open",
+      "create_at": "2026-01-23T16:53:40.344Z",
+      "updated_at": "2026-01-23T16:53:40.344Z"
+    },
+    {
+      "id": "36aacb4a-1926-4e50-922c-0350eca7db6f",
+      "equipment": "Headset",
+      "description": "Microfone não sai som.",
+      "user_name": "Lorenzo Jorge",
+      "status": "open",
+      "create_at": "2026-01-23T17:10:17.960Z",
+      "updated_at": "2026-01-23T17:10:17.960Z"
+    }
+  ]
+}

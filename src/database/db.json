@@ -11,12 +11,12 @@
     },
     {
       "id": "36aacb4a-1926-4e50-922c-0350eca7db6f",
-      "equipment": "Headset",
-      "description": "Microfone não sai som.",
+      "equipment": "Mouse",
+      "description": "Mouse esta agarrando",
       "user_name": "Lorenzo Jorge",
       "status": "open",
       "create_at": "2026-01-23T17:10:17.960Z",
-      "updated_at": "2026-01-23T17:10:17.960Z"
+      "updated_at": "2026-01-27T12:17:56.595Z"
     }
   ]
 }
